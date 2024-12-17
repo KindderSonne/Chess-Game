@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1163,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1164,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1448,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1448,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1454,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1454,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1472,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1472,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1477,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1477,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1482,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1482,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1487,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1487,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1492,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1492,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1497,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1497,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1502,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1502,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1507,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1507,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1512,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1512,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1517,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1517,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1522,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1522,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1527,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\Chess\main.cpp(1527,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Chess.vcxproj -> C:\Users\meteo\OneDrive - Hanoi University of Science and Technology\Documents\Chess\x64\Debug\Chess.exe
